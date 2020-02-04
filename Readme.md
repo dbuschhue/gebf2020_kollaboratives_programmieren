@@ -1,6 +1,10 @@
 # Kollaboratives Programmieren in der Bildungsforschung in R - GEBF2020
  Hier finden sie in Kürze alle wichtigen Informationen zum offenen Format "Kollaboratives Programmieren in der Bildungsforschung in R".
 
+
+!!!!! Achtung: Installationsanleitung noch in Arbeit - Dies wird abgeschlossen sein am Freitag, den 7.2.2020!!!!!!
+
+
 ## Installationsanleitung:
 
 Im Offenen Format steht das kollaborative Programmieren im Zentrum. Um kollaborativ programmieren zu können, bitten wir Sie vorab einige Schritte in Bezug auf Installation sowie Anmeldung durchzuführen, die im Folgenden aufgelistet sind. Sollten Sie Fragen oder Probleme haben, wenden Sie sich gerne an uns. Wie Sie sich an uns wenden, erfahren Sie unten.
