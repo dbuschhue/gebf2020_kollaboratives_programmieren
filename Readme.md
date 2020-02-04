@@ -17,7 +17,7 @@ https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 
 Insbesondere wenn Sie Windows als Betriebssystem verwenden, installieren Sie bitte die aktuellste Version von Git (sollte über den entsprechenden Installationslink automatisch heruntergeladen werden).
 
-### Erstellen Sie einen GitHub-Account:
+### 2) Erstellen Sie einen GitHub-Account:
 
 GitHub ist ein Dienst, der Projekte dezentral auf Servern verwaltet, die auf der Basis der Versionsverwaltung Git laufen.
 
@@ -28,7 +28,7 @@ https://github.com/dbuschhue/gebf2020_kollaboratives_programmieren/issues/1
 
 Hinweis: Für die Erstellung eines GitHub-Accounts fallen keine Kosten an und Sie werden unserer Erfahrung nach auch nicht mit E-Mail-Werbung von GitHub konfrontiert.
 
-### Installieren Sie R:
+### 3) Installieren Sie R:
 
 R ist eine speziell für Anwendungen im Bereich statistische Datenauswertung kreierte Software. Eine aktuelle Version für R kann auf folgender Seite heruntergeladen werden (siehe auch: https://www.wiwi.ruhr-uni-bochum.de/fiwipo/mam/content/anleitung_installation_von_r_u._rstudio.pdf):
 
@@ -39,7 +39,7 @@ www.r-project.org
 - Wählen Sie dann Ihr Betriebssystem und führen Sie entsprechend die Installation durch
 
 
-### Installieren Sie RStudio:
+### 4) Installieren Sie RStudio:
 
 RStudio ist eine Entwicklungsumgebung für die Programmiersprache R. RStudio ermöglicht in Projekten auch die Einbindung eines GitHub-Repositories, sodass kollaboratives Programmieren damit gut umsetzbar sind.
 
