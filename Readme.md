@@ -47,3 +47,6 @@ Laden Sie die entsprechende RStudio-Version auf folgender Seite herunter:
 https://rstudio.com/products/rstudio/download/#download
 
 Ihre Version sollte >=Version 1.2 sein (was in aller Regel der Fall ist).
+
+Link to working repository:
+https://github.com/colledscie/gebf20_open
