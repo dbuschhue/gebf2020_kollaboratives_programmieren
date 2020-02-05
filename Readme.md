@@ -30,7 +30,7 @@ Nachdem Sie nun Git installiert haben, benötigen Sie für das Offene Format ein
 Um uns nun die Zusammenarbeit zu erleichtern, wären wir Ihnen verbunden, wenn Sie in folgender "Issue" auf der Projektwebsite zur Vorbereitung und Anmeldung einen kurzen Kommentar (z.B.: "I'm in") hinterlassen. Den Link zu dieser "Issue" finden Sie hier:
 https://github.com/dbuschhue/gebf2020_kollaboratives_programmieren/issues/1
 
-Hinweis: Für die Erstellung eines GitHub-Accounts fallen keine Kosten an und Sie werden unserer Erfahrung nach auch nicht mit E-Mail-Werbung von GitHub konfrontiert.
+Hinweis: Für die Erstellung eines GitHub-Accounts fallen keine Kosten an und Sie werden, wenn Sie dies entsprechend in den Notifications Ihres Accounts einstellen, auch nicht mit E-Mails benachrichtigt.
 
 ### 3) Installieren Sie R:
 
