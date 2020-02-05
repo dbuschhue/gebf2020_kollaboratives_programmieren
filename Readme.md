@@ -28,7 +28,7 @@ GitHub ist ein Dienst, der Projekte dezentral auf Servern verwaltet, die auf der
 Nachdem Sie nun Git installiert haben, benötigen Sie für das Offene Format einen GitHub-Account. Diesen können Sie hier erstellen: https://github.com/join
 
 Um uns nun die Zusammenarbeit zu erleichtern, wären wir Ihnen verbunden, wenn Sie in folgender "Issue" auf der Projektwebsite zur Vorbereitung und Anmeldung einen kurzen Kommentar (z.B.: "I'm in") hinterlassen. Den Link zu dieser "Issue" finden Sie hier:
-https://github.com/dbuschhue/gebf2020_kollaboratives_programmieren/issues/1
+https://github.com/dbuschhue/gebf2020_kollaboratives_programmieren/issues/1 **Bitte beachten Sie, dass die Teilnehmendenzahl aufgrund des Veranstaltungsraums beschränkt ist. Die Priorisierung erfolgt in der Reihenfolge der Anmeldungen**. 
 
 Hinweis: Für die Erstellung eines GitHub-Accounts fallen keine Kosten an und Sie werden, wenn Sie dies entsprechend in den Notifications Ihres Accounts einstellen, auch nicht mit E-Mails benachrichtigt.
 
@@ -52,5 +52,4 @@ https://rstudio.com/products/rstudio/download/#download
 
 Ihre Version sollte >=Version 1.2 sein (was in aller Regel der Fall ist).
 
-Link to working repository:
-https://github.com/colledscie/gebf20_open
+Link to working repository: Kommt noch
