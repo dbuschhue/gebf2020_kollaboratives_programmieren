@@ -23,14 +23,14 @@ Installieren Sie bitte die aktuellste Version von Git (sollte über den entsprec
 
 ### 2) Erstellen Sie einen GitHub-Account:
 
-GitHub ist ein Dienst, der Projekte dezentral auf Servern verwaltet, die auf der Basis der Versionsverwaltung Git laufen.
+GitHub ist ein Dienst, der Projekte zentral verwaltet, die auf der Basis der Versionsverwaltung Git laufen, und verschiedene Kollaborationsfunktionen bereitstellt.
 
-Nachdem Sie nun Git installiert haben, benötigen Sie für das Offene Format einen GitHub-Account. Diesen können Sie hier erstellen: https://github.com/join
+Nachdem Sie nun Git installiert haben, benötigen Sie für das Offene Format einen GitHub-Account. Diesen können Sie hier erstellen: https://github.com/join. Außer einem Benutzernamen und E-Mail-Adresse müssen Sie keine persönlichen Daten angeben.
 
-Um uns nun die Zusammenarbeit zu erleichtern, wären wir Ihnen verbunden, wenn Sie in folgender "Issue" auf der Projektwebsite zur Vorbereitung und Anmeldung einen kurzen Kommentar (z.B.: "I'm in") hinterlassen. Den Link zu dieser "Issue" finden Sie hier:
+Um uns nun die Zusammenarbeit zu erleichtern, wären wir Ihnen verbunden, wenn Sie in folgender sog. "Issue" auf der Projektwebsite zur Vorbereitung und Anmeldung einen kurzen Kommentar (z.B.: "I'm in") hinterlassen. Den Link zu dieser "Issue" finden Sie hier:
 https://github.com/dbuschhue/gebf2020_kollaboratives_programmieren/issues/1 **Bitte beachten Sie, dass die Teilnehmendenzahl aufgrund des Veranstaltungsraums beschränkt ist. Die Priorisierung erfolgt in der Reihenfolge der Anmeldungen**. 
 
-Hinweis: Für die Erstellung eines GitHub-Accounts fallen keine Kosten an und Sie werden, wenn Sie dies entsprechend in den Notifications Ihres Accounts einstellen, auch nicht mit E-Mails benachrichtigt.
+Hinweis: Für die Erstellung eines GitHub-Accounts fallen keine Kosten an und Sie werden, wenn Sie dies entsprechend in den Notifications Ihres Accounts einstellen, auch nicht mit E-Mails benachrichtigt. Natürlich können Sie den Account nach dem Ende des Workshops sofort wieder löschen.
 
 ### 3) Installieren Sie R:
 
